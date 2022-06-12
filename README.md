@@ -1,6 +1,6 @@
 # big-data-recommender-system
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
-![ApechaSpark](https://img.shields.io/badge/PySpark-SparkMLlib/ALS-red)
+![ApechaSpark](https://img.shields.io/badge/PySpark-SparkMLlib/ALS-yellow)
 ![MLFrameworks](https://img.shields.io/badge/MLFrameworks-Pandas/Numpy/Matplotlib/Seaborn-blue)
 
 # Description
