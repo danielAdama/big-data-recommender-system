@@ -5,3 +5,10 @@
 
 ## Description
 Successfully built a Collaborative Filtering recommendation Model with 5 Million entries and achieved an R-squared of 40% and a root mean squared error of 82%
+
+## Required Dependences
+1. Apecha Spark(PySpark)
+2. Pandas
+3. Matplotlib
+4. Seaborn
+5. Numpy
